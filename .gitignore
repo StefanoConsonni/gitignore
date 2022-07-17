@@ -1,5 +1,8 @@
 # Application specific files #
 node_modules
+/node_modules
+/.pnp
+.pnp.js
 .env
 .env.local
 .env.development.local
@@ -7,6 +10,14 @@ node_modules
 .env.production.local
 .sass-cache
 npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# testing #
+/coverage
+
+# production #
+/build
 
 # Compiled source #
 *.com
