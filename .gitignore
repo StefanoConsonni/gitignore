@@ -5,6 +5,7 @@ dist/
 .pnp.js
 .sass-cache
 .parcel-cache/
+.cache
 .vscode/
 
 # Local env files
