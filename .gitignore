@@ -57,6 +57,10 @@ logs
 *.sql
 *.sqlite
 
+# Firebase Hosting
+.firebaserc
+firebase-debug.log
+
 # OS generated files
 .DS_Store
 .DS_Store?
