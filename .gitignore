@@ -58,6 +58,7 @@ logs
 *.sqlite
 
 # Firebase Hosting
+.firebase/
 .firebaserc
 firebase-debug.log
 
